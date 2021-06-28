@@ -4,7 +4,7 @@
 - go get github.com/0xTeles/403bypass
 - 403bypass https://domain.com path/path (Yes, without /)
 
-# add
+# Add
 - New methods.
 - Improve the code.
 # Contribute 
